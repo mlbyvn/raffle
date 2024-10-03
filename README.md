@@ -25,8 +25,8 @@ Functionality:
 ```
 make install
 ```
-* 2. Get a subscriptionId (either manually at [Chainlink VRF](https://vrf.chain.link/) or by running 'make createSubscription') and change it in HelperConfig.s.sol getSepoliaEthConfig().
-* 3. Change the account (metamask wallet) address in HelperConfig.s.sol getSepoliaEthConfig() to enable testing on sepolia.
+* 2. Change the account (metamask wallet) address in HelperConfig.s.sol getSepoliaEthConfig() to enable testing on sepolia.
+* 3. Get a subscriptionId (either manually at [Chainlink VRF](https://vrf.chain.link/) or by running 'make createSubscription') and change it in HelperConfig.s.sol getSepoliaEthConfig().
 * 4. When the contract is deployed, it is needed to register a new upkeep at [Chainlink Automation](https://automation.chain.link/)
 
 ### Installing

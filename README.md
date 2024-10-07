@@ -1,6 +1,6 @@
 # Raffle
 
-A fair raffle that requests a random number from Chainlink VRF, also implements Chainlink Automation. 
+A fair raffle that requests a random number from Chainlink VRF, also implements Chainlink Automation. Contract address on etherscan: [0xFbf1153bD3BD0A244b5C6A7461DE542FD8C93830](https://sepolia.etherscan.io/address/0xFbf1153bD3BD0A244b5C6A7461DE542FD8C93830). If you enter the raffle and the winner is not picked automatically- there is no more LINK on the Chainlink Automation subscription.
 
 ## Description
 
